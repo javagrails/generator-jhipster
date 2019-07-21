@@ -125,3 +125,12 @@ Additional builds at [hipster-labs/jhipster-daily-builds](https://github.com/hip
 [feature-template]: https://github.com/jhipster/generator-jhipster/issues/new?template=FEATURE_REQUEST.md
 [npmcharts-image]: https://img.shields.io/npm/dm/generator-jhipster.svg?label=Downloads&style=flat
 [npmcharts-url]: https://npmcharts.com/compare/generator-jhipster
+
+
+## My Repo Changes
+
+1. v4.13.0-to-v6.1.2
+
+
+
+
